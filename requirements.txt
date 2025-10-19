@@ -3,7 +3,7 @@ curl_cffi==0.7.3
 pycryptodome==3.21.0
 flask==3.0.3
 colorama==0.4.6
-py_mini_racer==0.12.1
 numpy==2.1.2
 colr==0.9.3
 PyExecJS==1.5.1
+simple-js2py==0.74
