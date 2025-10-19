@@ -1,0 +1,9 @@
+cryptography
+curl_cffi
+pycryptodome
+flask
+colorama
+javascript
+numpy
+colr
+execjs
